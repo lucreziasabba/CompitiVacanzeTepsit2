@@ -4,7 +4,6 @@ namespace CalcLibrary
 {
     public static class Calc
     {
-
         public static double RadQ(double num)
         {
             double resp = 0;
